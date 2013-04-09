@@ -14,6 +14,7 @@ ___
 2. Run the script by typing ./save_ff_flash.pl and make sure it is executable first.
 3. This will save a copy of all the open flash videos onto your desktop.
 4. Alternatively, you can specify a path where you want to save the videos using a command line argument.
+
 ___
 ## Requirements
 
